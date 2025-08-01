@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+config.toml
+smart_insure.jpeg
