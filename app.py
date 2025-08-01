@@ -13,7 +13,6 @@ def estimate_premium(cover_needed, base_rate=2.5):
     return round((cover_needed / 1000) * base_rate, 2)
 
 # UI
-st.image("smart_insure.jpeg", width=150)
 st.title("💼 Term Life Insurance Calculator (Kenya)")
 st.write("Estimate your life cover needs using either the Income ×10 method or the DIME method.")
 
